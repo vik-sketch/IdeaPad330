@@ -4,7 +4,8 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
-//doing some changes in branch at 02:04 pm...
+
+//doing some changes in branch at 02:04 pm
 /**
  * Unit test for simple App.
  */
