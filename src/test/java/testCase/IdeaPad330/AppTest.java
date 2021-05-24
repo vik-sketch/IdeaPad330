@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
  * Unit test for simple App.
  */
 public class AppTest 
-    extends TestCase
+    extends TestCase								// changes done on 24th may
 {
     /**
      * Create the test case
